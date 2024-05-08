@@ -1,5 +1,18 @@
 ## Super-POO
 
+O sistema a ser desenvolvido é uma solução simples de bonificação em vendas, onde o
+vendedor vai acumulando bônus, proporcional às suas vendas, e pode resgatá-los para
+comprar produtos, serviços e mesmo saque em cash. As seguintes funcionalidades serão
+desenvolvidas: Cadastros de vendedor e de caixa de bônus, Alteração de vendedor, Acúmulo de bônus,
+Resgate, Consulta de bônus acumulado e extrato, Relatório de vendedores.
+
+# Requisitos
+Para a execução desse projeto, é necessário preencher os seguintes requisitos:
+<table>
+  <tr>- Java </tr><br>
+  <tr>- Windows Builder </tr>
+</table>
+
 👨‍💻 Trabalho desenvolvido por:
 
 <table>
